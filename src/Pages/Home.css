@@ -1,0 +1,17 @@
+.imgTamanho{
+    width: 40%;
+    margin: 0;
+    position: relative;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    margin-top: 15%;
+}
+
+p{
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -75px;
+    position: absolute;
+}
